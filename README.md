@@ -1,11 +1,11 @@
 # UnlimitedGPT
-This is 100% free unlimited ChatGPT API code<br>
-
+This is 100% free unlimited ChatGPT API code
+<br><br>
 
 ### My First API
 [This](https://testapi-pwp4.onrender.com/api/ai) is my first API made with Node.js! ☺ Try it, enjoy ♥ & give a star ⭐ 
 
-API url: ```API
+API url: ```
     https://testapi-pwp4.onrender.com/api/ai
     ```
 <br><br>
